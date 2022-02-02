@@ -1,2 +1,2 @@
-# Spelling-Bee
-Text-based word game in python
+# Kings-Corner
+Text-based version of the card game kings corner in python
